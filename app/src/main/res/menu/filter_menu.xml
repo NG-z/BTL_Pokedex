@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mRefresh"
+        android:icon="@drawable/ic_refresh"
+        android:title="Refresh"/>
+    <item
+        android:id="@+id/mStat"
+        android:icon="@drawable/ic_stat"
+        android:title="Stat ↑↓"/>
+    <item
+        android:id="@+id/mName"
+        android:icon="@drawable/ic_name"
+        android:title="Name ↑↓"/>
+    <item
+        android:id="@+id/mSearch"
+        android:icon="@drawable/ic_search"
+        android:title="Search"/>
+</menu>

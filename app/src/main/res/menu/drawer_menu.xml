@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mFavorite"
+        android:icon="@drawable/ic_favorite"
+        android:title="Favorite"/>
+    <item
+        android:id="@+id/mCache"
+        android:icon="@drawable/ic_cache"
+        android:title="Clear cache"/>
+    <item
+        android:id="@+id/mContact"
+        android:icon="@drawable/ic_contact"
+        android:title="Nguyen Giang"/>
+    <item
+        android:id="@+id/mAbout"
+        android:icon="@drawable/ic_info"
+        android:title="Pokedex v1.0"/>
+</menu>
